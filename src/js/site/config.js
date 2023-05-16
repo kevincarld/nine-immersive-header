@@ -12,7 +12,7 @@ export default {
       domain: "https://www.traveller.com.au/",
       urls: ["traveller"],
       logo:
-        "https://live-native-paid-content.pantheonsite.io/wp-content/uploads/2019/03/traveller-logo-black.svg"
+        "https://live-native-paid-content.pantheonsite.io/wp-content/uploads/2023/05/traveller-logo-black-2023.svg"
     },
     {
       domain: "https://www.afr.com",
