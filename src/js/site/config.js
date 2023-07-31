@@ -63,6 +63,12 @@ export default {
         "https://live-native-paid-content.pantheonsite.io/wp-content/uploads/2018/08/the-age-logo-1-1.svg"
     },
     {
+      domain: "https://www.brisbanetimes.com.au",
+      urls: ["brisbanetimes"],
+      logo:
+        "https://live-native-paid-content.pantheonsite.io/wp-content/uploads/2023/07/brisbanetimes-logo.svg"
+    },
+    {
       domain: "https://www.watoday.com.au",
       urls: ["watoday"],
       logo:
