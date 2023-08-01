@@ -18,7 +18,8 @@ export default {
     {
       domain: "https://www.traveller.com.au/",
       urls: ["traveller"],
-      logo: "https://live-native-paid-content.pantheonsite.io/wp-content/uploads/2019/03/traveller-logo-black.svg",
+      logo:
+        "https://live-native-paid-content.pantheonsite.io/wp-content/uploads/2023/05/traveller-logo-black-2023.svg"
     },
     {
       domain: "https://www.afr.com",
@@ -49,6 +50,12 @@ export default {
       domain: "https://www.theage.com.au",
       urls: ["theage"],
       logo: "https://live-native-paid-content.pantheonsite.io/wp-content/uploads/2018/08/the-age-logo-1-1.svg",
+    },
+    {
+      domain: "https://www.brisbanetimes.com.au",
+      urls: ["brisbanetimes"],
+      logo:
+        "https://live-native-paid-content.pantheonsite.io/wp-content/uploads/2023/07/brisbanetimes-logo.svg"
     },
     {
       domain: "https://www.watoday.com.au",
